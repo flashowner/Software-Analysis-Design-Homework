@@ -35,7 +35,7 @@
 ![](https://github.com/flashowner/Software-Analysis-Design-Homework/blob/master/img/2.PNG)
 
 ### 个人博客清单
-[服务器的部署]()
+[服务器的部署](https://blog.csdn.net/dongyu1703/article/details/94354198)
 
 ### 特别致谢
 后端负责人Solotaria：不厌其烦地回答我的问题，指导我不清楚的地方，很辛苦认真地实现了后端地接口。
